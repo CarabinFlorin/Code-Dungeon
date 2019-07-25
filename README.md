@@ -24,7 +24,7 @@ ultimei linii de cod sau caracterul este lovit de un inamic, atunci acesta va fi
 înapoi la începutul nivelului pentru a-și corecta codul și a încerca din nou.  
 
 Fisiere necesare
-Graphic pack  
+Tile set + animation 
 http://atmajaku.com/2019/02/25/dungeon-knight-artanimation-pack-v1-01/  
-Unity UI Extension
+Unity UI Extension  
 https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/src/master/
