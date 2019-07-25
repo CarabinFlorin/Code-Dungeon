@@ -21,4 +21,8 @@ drumul lui.
 Un nivel este completat atunci când caracterul poate să parcurgă întreg
 labirintul de la început până la sfârșit, dacă acest lucru nu se întâmplă după executarea
 ultimei linii de cod sau caracterul este lovit de un inamic, atunci acesta va fi mutat
-înapoi la începutul nivelului pentru a-și corecta codul și a încerca din nou.
+înapoi la începutul nivelului pentru a-și corecta codul și a încerca din nou.  
+
+Graphic pack
+http://atmajaku.com/2019/02/25/dungeon-knight-artanimation-pack-v1-01/
+https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/src/master/
