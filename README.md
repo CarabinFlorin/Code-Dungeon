@@ -1,6 +1,6 @@
-# hello-world
+# Code Dungeon
   
-###Genul jocului  
+## Genul jocului  
 Single player: o singură persoană poate juca la un moment dat.  
 Puzzle: jocul prezintă o provocare care testează logica și abilitatea de a rezolva
 probleme a jucătorului.  
@@ -8,9 +8,9 @@ Top-down: camera este plasată deasupra caracterul.
 Educațional: scopul jocului este de a învăța jucătorul sau de a-l ajuta să își
 îmbunătățească anumite abilități  
   
-<img src = "/Instructions.png">  
+<img src = "/Scene/Instructions.png">  
   
-###Gameplay  
+## Gameplay  
 În acest joc, scopul jucătorului este de a ghida cavalerul din punctul de start
 până la capătul temniței unde îl va aștepta o comoară, evitând pe drum obstacolele și
 provocările care vor apărea, oricum, caracterul acestui joc nu este controlat de săgeți
