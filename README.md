@@ -8,7 +8,7 @@ Top-down: camera este plasată deasupra caracterul.
 Educațional: scopul jocului este de a învăța jucătorul sau de a-l ajuta să își
 îmbunătățească anumite abilități  
   
-![](Assets/Scene/Instructions.png)  
+<img src = "https://github.com/CarabinFlorin/Code-Dungeon/blob/master/Assets/Scenes/Instructions.png">  
   
 ## Gameplay  
 În acest joc, scopul jucătorului este de a ghida cavalerul din punctul de start
